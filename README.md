@@ -83,8 +83,6 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 ## Documentation
 For more detailed information about setup and configuration, visit the [Documentation Page](#).
 
-## Support
-For support, email me at jeff.jiang13@gmail.com or open an issue in the GitHub repository.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
